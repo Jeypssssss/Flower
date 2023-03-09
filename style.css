@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #CD6155
+    background-color: #000000
 }
 .greetings{
     font-size: 6rem;
